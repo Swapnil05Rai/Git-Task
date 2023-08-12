@@ -1,0 +1,3 @@
+My name is Swapnil.
+Here are my skills: html, css, js, computer vision, Python, Django, MongoDB, OpenCV.
+My email id is amanrai05032003@gmail.com.
